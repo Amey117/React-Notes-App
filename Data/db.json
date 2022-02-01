@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "cat": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "cat": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Indian Cricket Team",
+      "details": "Lorem ipsum dolor sit amet. Et debitis veniam aut omnis magnam qui asperiores enim 33 vitae maxime ut dolore dolor sed adipisci necessitatibus. Qui nulla repellendus aut dolor voluptatem sed ipsam temporibus.\n\nQui quaerat distinctio non natus debitis hic enim vitae beatae quia. Aut voluptates animi ad asperiores architecto est perspiciatis reprehenderit ut quasi sint?\n\nEa quod minima eum aperiam delectus aut voluptatem provident? Id quia ipsa est ipsa similique est sequi Quis. Et voluptatem officia non dolor perferendis aut provident architecto nam sapiente deserunt.",
+      "cat": "money",
+      "id": 4
+    }
+  ]
+}
